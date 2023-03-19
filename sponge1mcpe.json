@@ -1,8 +1,8 @@
 {
     "ads": {
 		"showAds": true,
-		"bannerAd": "admob",
-		"interstitialAd": "admob",
+		"bannerAd": "max",
+		"interstitialAd": "max",
 		"nativeAd": "max",
         "rewardAd": "max",
         "admobBanner": "ca-app-pub-3940256099942544/6300978111",
@@ -14,10 +14,10 @@
         "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "fbReward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "ironsourceApi": "1011dee21",
-        "maxBanner": "6db1491f2e21970c",
-        "maxInterstitial": "812b82d9e0c7cb7f",
-        "maxNative": "64ea2f2ef41edb34",
-        "maxReward": "64ea2f2ef41edb34",
+        "maxBanner": "1bc493d05203a71c",
+        "maxInterstitial": "f0090f2a5c21b50e",
+        "maxNative": "9f083e7acb7c467d",
+        "maxReward": "2914bfd4ffb3a251",
         "interstitialClickNumActivities": 1,
         "interstitialClickNumList": 3
         
@@ -25,7 +25,7 @@
     "settings": {
         "showLog": true,
         "target_game_package": "com.studio27.MelonPlayground",
-        "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
+        "onesignal_app_id": "355808a7-671e-4530-ace3-951870bfea80",
 		"allow_download_on_error": false,
         "review": {
 			"show": true,
